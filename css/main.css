@@ -1,0 +1,88 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: #FDFFC7;
+    height: 200px;
+    padding: 50px;
+}
+
+
+h2 {
+    font-family: 'Roboto', sans-serif, sans-serif;
+    color: #8F6B00;
+    font-size: 42px;
+    text-align: center;
+}
+
+.profile {
+    height: 200px;
+    width : 175px;
+    position: absolute;
+    border-radius: 100%;
+}
+
+.quote {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #8F6B00;
+    margin-left: 200px;
+    text-align: right;
+    line-height: 2;
+}
+
+body {
+    background-color: #FDFFC7;
+}
+
+#gk01 {
+    background-size: cover;
+    background: url('../imgs/gk01.jpg') fixed;
+    height: 700px;
+}
+
+#gk02 {
+    background-size: cover;
+    background: url('../imgs/gk02.jpg') fixed;
+    height: 700px;
+}
+
+.container-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #8F6B00;
+    line-height: 2;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+h4{
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+    color: #8F6B00;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.link {
+    font-family: 'Roboto', sans-serif;
+    color: #8F6B00;
+    border-radius: 5px;
+    border: 2px solid #8F6B00;
+    background-color: #FDFFC7;
+    height: 50px;
+    width: 150px;
+    margin: auto;
+    text-decoration: none;
+}
