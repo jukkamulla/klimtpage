@@ -6,18 +6,18 @@ html {
 body {
     padding: 0;
     margin: 0;
+    background-color: #FDFFC7;
+    color: #8F6B00;
+    font-family: 'Roboto', sans-serif;
+    line-height: 2;
 }
 
 .header {
-    background-color: #FDFFC7;
     height: 200px;
     padding: 50px;
 }
 
-
 h2 {
-    font-family: 'Roboto', sans-serif, sans-serif;
-    color: #8F6B00;
     font-size: 42px;
     text-align: center;
 }
@@ -30,16 +30,9 @@ h2 {
 }
 
 .quote {
-    font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    color: #8F6B00;
     margin-left: 200px;
     text-align: right;
-    line-height: 2;
-}
-
-body {
-    background-color: #FDFFC7;
 }
 
 #gk01 {
@@ -55,19 +48,13 @@ body {
 }
 
 .container-text {
-    font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    color: #8F6B00;
-    line-height: 2;
     margin-left: 100px;
     margin-right: 100px;
 }
 
-
 h4{
     display: inline;
-    font-family: 'Roboto', sans-serif;
-    color: #8F6B00;
 }
 
 .footer {
@@ -76,13 +63,11 @@ h4{
 }
 
 .link {
-    font-family: 'Roboto', sans-serif;
-    color: #8F6B00;
     border-radius: 5px;
     border: 2px solid #8F6B00;
-    background-color: #FDFFC7;
     height: 50px;
     width: 150px;
     margin: auto;
     text-decoration: none;
+    color: #8F6B00;
 }
